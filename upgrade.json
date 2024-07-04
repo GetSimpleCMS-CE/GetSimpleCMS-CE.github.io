@@ -1,0 +1,13 @@
+[
+	
+	{
+		"name": "GetSimple CMS CE Update",
+		"version": "3.3.20",
+		"update": "2024.07.04",
+		"info": "Update GS install to current version.",
+		"author": "islander",
+		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/3.3.20",
+		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.20.zip"
+	},
+	
+]
