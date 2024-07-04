@@ -9,7 +9,7 @@
 		"lastupdate": "2024.07.04",
 		
 		"new": "fancybox Replaced",
-		"updated": "Massive Admin 5.x, Codemirror, Support page, Deprecated items removed",
+		"updates": "Massive Admin 5.x, Codemirror, Support page, Deprecated items removed",
 		"fixed": "Email, Password Reset, Backups, Components",
 		"security": "2 Vulnerabilities Patched",
 		
