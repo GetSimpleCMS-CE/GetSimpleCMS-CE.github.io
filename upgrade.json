@@ -2,7 +2,24 @@
 	
 	{
 		"name": "GetSimple CMS CE Update",
-		"info": "Update GS install to current version.",
+		"info": "Update GS install to current stable version.",
+		"author": "islander",
+		
+		"version": "3.3.19.1",
+		"lastupdate": "2024.05.23",
+		
+		"new": "Massive Admin 5.x & 11 default languages included, new gsconfig options",
+		"updates": "ckEditor plugins, Copy Component, ResponsiveCE default template, Deprecated items removed",
+		"fixed": "Soport Page",
+		"security": "2 Vulnerabilities Patched",
+		
+		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/3.3.19.1",
+		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.19.1.zip"
+	},
+	
+	{
+		"name": "GetSimple CMS CE Update",
+		"info": "Update GS install to new Beta version.",
 		"author": "islander",
 		
 		"version": "3.3.20 Bata",
