@@ -27,7 +27,7 @@
 		
 		"new": "Email & Install template, fancybox Replaced",
 		"updates": "Massive Admin 5.x, Codemirror, Support page, Deprecated items removed",
-		"fixed": "Email, Password Reset, Backups, Components",
+		"fixed": "Email, Password Reset, Backups, Components, Menu-Manager",
 		"security": "2 Vulnerabilities Patched",
 		
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/3.3.20",
