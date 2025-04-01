@@ -13,8 +13,8 @@
 		"fixed": "Email, Password Reset, Backups, Components, Menu-Manager",
 		"security": "2 Vulnerabilities Patched",
 		
-		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
-		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE",
+		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.20.zip"
 	}
 	
 ]
