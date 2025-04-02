@@ -1,6 +1,8 @@
 [
 	
 	{
+		"plugver": "1.1",
+		
 		"name": "GetSimple CMS CE - Latest Release",
 		"info": "Update GS install to current stable version.",
 		"author": "islander",
