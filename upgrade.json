@@ -26,10 +26,10 @@
 		"info": "Update GS install to latest Beta version.",
 		"author": "CE Team",
 		
-		"version": "3.3.22 beta",
+		"version": "3.3.22 Beta",
 		"lastupdate": "2025.05.14",
 		
-		"new": "Danish, Norwegian and Swedish langs. added.",
+		"new": "Added Danish, Norwegian and Swedish langs.",
 		"updates": "--",
 		"fixed": "Typo in Edit Page",
 		"security": "--",
