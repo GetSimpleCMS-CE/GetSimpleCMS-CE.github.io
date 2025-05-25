@@ -30,9 +30,9 @@
 		"lastupdate": "2025.05.14",
 		
 		"new": "Added Danish, Norwegian and Swedish langs.",
-		"updates": "--",
-		"fixed": "Typo in Edit Page",
-		"security": "RCE vulnerability patched",
+		"updates": "Health Check.",
+		"fixed": "Typo in Edit Page.",
+		"security": "RCE vulnerability patched.",
 		
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
 		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
