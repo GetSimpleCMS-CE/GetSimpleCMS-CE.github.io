@@ -29,7 +29,7 @@
 		"version": "3.3.22 Beta",
 		"lastupdate": "2025.05.25",
 		
-		"new": "Added Danish, Norwegian and Swedish langs.<br>     Salt/Hash Generator included.",
+		"new": "Added Danish, Norwegian and Swedish langs. Included Salt/Hash generator.",
 		"updates": "Health Check, Support Page.",
 		"fixed": "Typo in Edit Page.",
 		"security": "RCE vulnerability patched.",
