@@ -7,27 +7,8 @@
 		"info": "Update GS install to current stable version.",
 		"author": "CE Team",
 		
-		"version": "3.3.21",
-		"lastupdate": "2025.05.05",
-		
-		"new": "CodeMirror Theme Setting in gsconfig.php, Check for Update added to Install, Health Check & Plugins",
-		"updates": "Massive Admin 6.x, Update CE v1.x, Health Check (check for SQLite3)",
-		"fixed": "Languages, Hidden plugin, Page Auto Menu Title",
-		"security": "-",
-		
-		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE",
-		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.21.zip"
-	},
-	
-	{
-		"plugver": "1.2",
-		
-		"name": "GetSimple CMS CE - Beta",
-		"info": "Update GS install to latest Beta version.",
-		"author": "CE Team",
-		
-		"version": "3.3.22.06.14 Beta",
-		"lastupdate": "2025.06.14",
+		"version": "3.3.22",
+		"lastupdate": "2025.06.15",
 		
 		"new": "Added Danish, Norwegian and Swedish langs. Added Salt/Hash generator.",
 		"updates": "Health Check, Support Page.",
@@ -35,7 +16,7 @@
 		"security": "RCE vulnerability patched.",
 		
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
-		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/archive/refs/tags/v3.3.22.zip"
 	}
 	
 ]
