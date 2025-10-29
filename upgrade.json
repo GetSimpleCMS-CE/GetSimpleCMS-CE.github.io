@@ -16,7 +16,7 @@
 		"security": "RCE vulnerability patched.",
 		
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
-		"url":  "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/archive/refs/tags/v3.3.22.zip"
+		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.22.zip"
 	}
 	
 ]
