@@ -1,10 +1,8 @@
 [
 	
 	{
-		"plugver": "1.2"
-	}
-	
-	{
+		"plugver": "1.2",
+		
 		"name": "GetSimple CMS CE - Latest Release",
 		"info": "Update GS install to current stable version.",
 		"author": "CE Team",
@@ -19,21 +17,6 @@
 		
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
 		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.22.zip"
-	}
-	
-	{
-		"name": "GetSimple CMS CE - BETA",
-		"info": "Stable, but still in testing, so may change before next release.",
-		"author": "CE Team",
-		
-		"version": "3.3.23 Beta",
-		"lastupdate": "2025.11.08",
-		
-		"new": "SVG Support",
-		"updates": "Updated: Plugin Massive Admin v6.x",
-		
-		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
-		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
 	}
 	
 ]
