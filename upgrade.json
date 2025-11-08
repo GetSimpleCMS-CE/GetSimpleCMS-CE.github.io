@@ -27,8 +27,10 @@
 		"version": "3.3.23 Beta",
 		"lastupdate": "2025.06.15",
 		
-		"new": "SVG Support",
+		"new": "SVG Support added",
 		"updates": "Updated: Plugin Massive Admin v6.x",
+		"fixed": "-",
+		"security": "-",
 
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
 		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
