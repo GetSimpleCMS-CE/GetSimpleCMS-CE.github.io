@@ -1,10 +1,8 @@
 [
-	
-	{
-		"plugver": "1.2"
-	},
 
 	{
+		"plugver": "1.2"
+		
 		"name": "GetSimple CMS CE - Latest Release",
 		"info": "Update GS install to current stable version.",
 		"author": "CE Team",
@@ -22,6 +20,8 @@
 	},
 
 	{
+		"plugver": "1.2"
+		
 		"name": "GetSimple CMS CE - BETA",
 		"info": "Stable, but still in testing, so may change before next release..",
 		"author": "CE Team",
