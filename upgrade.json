@@ -1,8 +1,10 @@
 [
 	
 	{
-		"plugver": "1.2",
-		
+		"plugver": "1.2"
+	}
+	
+	{
 		"name": "GetSimple CMS CE - Latest Release",
 		"info": "Update GS install to current stable version.",
 		"author": "CE Team",
