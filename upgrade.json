@@ -27,11 +27,11 @@
 		"author": "CE Team",
 		
 		"version": "3.3.23 Beta",
-		"lastupdate": "2026.01.07",
+		"lastupdate": "2026.01.13",
 		
-		"new": "SVG Support added, Admin Page Sorting, Update plugin from Plugins Tab.",
+		"new": "SVG Support added, Admin Page Sorting, Update plugin from Plugins Tab, Twig support, New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>).",
 		"updates": "Updated: Plugin Massive Admin v6.x",
-		"fixed": "-",
+		"fixed": "404 handling",
 		"security": "-",
 
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
