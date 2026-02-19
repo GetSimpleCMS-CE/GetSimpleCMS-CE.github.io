@@ -26,7 +26,7 @@
 		"info": "Stable, but still in testing, so may change before next release..",
 		"author": "CE Team",
 		
-		"version": "3.3.23 Beta",
+		"version": "3.3.23 2026.02.19 Beta",
 		"lastupdate": "2026.02.19",
 		
 		"new": "SVG Support added, <br>Admin Page Sorting, <br>Update plugin from Plugins Tab, <br>Twig support, <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>).<br>",
