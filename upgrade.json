@@ -29,10 +29,10 @@
 		"version": "3.3.23 Beta",
 		"lastupdate": "2026.02.19",
 		
-		"new": "SVG Support added, <br>Admin Page Sorting, <br>Update plugin from Plugins Tab, <br>Twig support, <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>).",
-		"updates": "Updated: Plugin Massive Admin v6.x, <br>UpdateCEUpdate, <br>View Sitemap UI,<br>Health Check, <br>Sitemap UI.",
-		"fixed": "Image and file handling, <br>Memory usage, <br>Security enhancements.",
-		"security": "Numerous issues patched/enhanced<br>CVE-2026-27146 (CSRF), <br>CVE-2026-27147 (XSS), CVE-2026-27161 (If AllowOverride is disabled), <br>CVE-2026-27202 (Arbitrary File Read).",
+		"new": "SVG Support added, <br>Admin Page Sorting, <br>Update plugin from Plugins Tab, <br>Twig support, <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>).<br>",
+		"updates": "Updated: Plugin Massive Admin v6.x, <br>UpdateCEUpdate, <br>View Sitemap UI,<br>Health Check, <br>Sitemap UI.<br>",
+		"fixed": "Image and file handling, <br>Memory usage, <br>Security enhancements.<br>",
+		"security": "Numerous issues patched/enhanced<br>CVE-2026-27146 (CSRF), <br>CVE-2026-27147 (XSS), <br>CVE-2026-27161 (If AllowOverride is disabled), <br>CVE-2026-27202 (Arbitrary File Read).",
 
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
 		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
