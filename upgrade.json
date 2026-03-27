@@ -15,6 +15,8 @@
 		"fixed": "Typo in Edit Page.",
 		"security": "RCE vulnerability patched.",
 		
+		"instructions": "xxx",
+		
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
 		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.22.zip"
 	},
@@ -34,6 +36,8 @@
 		"fixed": "<br>Image and file handling, <br>Memory usage, <br>Security enhancements.<br><br>",
 		"security": "Numerous issues patched/enhanced<br>CVE-2026-27146 (CSRF), <br>CVE-2026-27147 (XSS), <br>CVE-2026-27161 (If AllowOverride is disabled), <br>CVE-2026-27202 (Arbitrary File Read).",
 
+		"instructions": "zzz",
+		
 		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
 		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
 	}
