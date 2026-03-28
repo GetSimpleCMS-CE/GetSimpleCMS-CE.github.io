@@ -1,42 +1,45 @@
 [
+
 	{
 		"plugver": "1.3",
-		"info_url": "https://getsimplecms-ce.github.io/upgrade-info.html",
+		
+		"name": "GetSimple CMS CE - Latest Release",
+		"info": "Update GS install to current stable version.",
+		"author": "CE Team",
+		
+		"version": "3.3.22",
+		"lastupdate": "2025.06.15",
+		
+		"new": "Added Danish, Norwegian and Swedish langs. Added Salt/Hash generator.",
+		"updates": "Health Check, Support Page.",
+		"fixed": "Typo in Edit Page.",
+		"security": "RCE vulnerability patched.",
+		
+		"info_url": "xxx",
+		
+		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
+		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.22.zip"
+	},
 
-		"releases": [
-			{
-				"name": "GetSimple CMS CE - Latest Release",
-				"info": "Update GS install to current stable version.",
-				"author": "CE Team",
-				
-				"version": "3.3.22",
-				"lastupdate": "2025.06.15",
-				
-				"new": "Added Danish, Norwegian and Swedish langs. Added Salt/Hash generator.",
-				"updates": "Health Check, Support Page.",
-				"fixed": "Typo in Edit Page.",
-				"security": "RCE vulnerability patched.",
-				
-				"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
-				"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/3.3.22.zip"
-			},
+	{
+		"plugver": "1.3",
+		
+		"name": "GetSimple CMS CE - BETA",
+		"info": "Stable, but still in testing, so may change before next release..",
+		"author": "CE Team",
+		
+		"version": "3.3.23 2026.02.28 Beta",
+		"lastupdate": "2026.02.28",
+		
+		"new": "<br>SVG Support added, <br>Admin Page Sorting, <br>Update plugin from Plugins Tab, <br>Twig support, <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>).<br><br>",
+		"updates": "<br>Plugin - Massive Admin v6.x, <br>Plugin - UpdateCE, <br>View Sitemap UI,<br>Health Check, <br>Sitemap UI.<br><br>",
+		"fixed": "<br>Image and file handling, <br>Memory usage, <br>Security enhancements.<br><br>",
+		"security": "Numerous issues patched/enhanced<br>CVE-2026-27146 (CSRF), <br>CVE-2026-27147 (XSS), <br>CVE-2026-27161 (If AllowOverride is disabled), <br>CVE-2026-27202 (Arbitrary File Read).",
 
-			{
-				"name": "GetSimple CMS CE - BETA",
-				"info": "Stable, but still in testing, so may change before next release..",
-				"author": "CE Team",
-				
-				"version": "3.3.23 2026.02.28 Beta",
-				"lastupdate": "2026.02.28",
-				
-				"new": "<br>SVG Support added, <br>Admin Page Sorting, <br>Update plugin from Plugins Tab, <br>Twig support, <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>).<br><br>",
-				"updates": "<br>Plugin - Massive Admin v6.x, <br>Plugin - UpdateCE, <br>View Sitemap UI,<br>Health Check, <br>Sitemap UI.<br><br>",
-				"fixed": "<br>Image and file handling, <br>Memory usage, <br>Security enhancements.<br><br>",
-				"security": "Numerous issues patched/enhanced<br>CVE-2026-27146 (CSRF), <br>CVE-2026-27147 (XSS), <br>CVE-2026-27161 (If AllowOverride is disabled), <br>CVE-2026-27202 (Arbitrary File Read).",
-				
-				"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
-				"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
-			}
-		]
+		"info_url": "xxx",
+		
+		"repo": "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/tree/main",
+		"url":  "https://github.com/GetSimpleCMS-CE/update-GetSimpleCMS-CE/archive/refs/heads/main.zip"
 	}
+	
 ]
