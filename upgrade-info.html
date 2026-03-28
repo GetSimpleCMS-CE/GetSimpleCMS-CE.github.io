@@ -1,0 +1,46 @@
+<p style="background-color:orange; font-weight:600; color:white; padding:10px">This is a REMOTE TEST</p>
+	
+			<ul class="w3-ul">
+				<li>
+					<p>Plugin "Massive Admin Theme" is included and may need to be activated.</p>
+				</li>
+				<li>
+					<p>If you are updating from a version prior to this, you will need to manually update your existing "<b>gsconfig.php</b>" with the following...</p>
+				</li>
+			</ul>
+		
+			<p>Add New:</p>
+			<div class="w3-codespan w3-padding w3-margin-bottom">
+# Login Page Default Language;<br>
+$LANG = 'en_US'; // es_ES, pl_PL, de_DE, uk_UK, etc.<br><br>
+
+# Sort admin page list by title or menu<br>
+define('GSSORTPAGELISTBY','menu');<br><br>
+
+# Set CodeMirror Theme (blackboard or default)<br>
+define('GSCMTHEME','blackboard');
+			</div>
+		
+			<p>Replace section:</p>
+			<div class="w3-codespan w3-padding  w3-margin-bottom">
+# WYSIWYG toolbars (advanced, basic or [custom config]) <br>
+# define('GSEDITORTOOL', 'advanced');<br><br>
+
+# WYSIWYG Editor Options<br>
+# define('GSEDITOROPTIONS', '');
+			</div>
+		
+			<p>With updated:</p>
+			<div class="w3-codespan w3-padding  w3-margin-bottom">
+# WYSIWYG toolbars (advanced, basic, CEbar, island or [custom config])<br>
+define('GSEDITORTOOL', "CEbar");<br><br>
+
+# WYSIWYG Editor Options<br>
+define('GSEDITOROPTIONS', '<br>
+extraPlugins:"fontawesome5,youtube,codemirror,cmsgrid,colorbutton,oembed,simplebutton,spacingsliders",<br>
+disableNativeSpellChecker : false,<br>
+forcePasteAsPlainText : true<br>
+');
+
+			</div>
+			
