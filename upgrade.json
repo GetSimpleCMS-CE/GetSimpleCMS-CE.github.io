@@ -31,10 +31,10 @@
 		"version": "3.3.23 2026.06.09 Beta",
 		"lastupdate": "2026.06.09",
 		
-		"new": "<br>SVG Support added, <br>Admin Page Sorting, <br>Update plugin from Plugins Tab, <br>Twig support, <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>).<br>- Single-use password reset token.<br><br>",
+		"new": "<br>SVG Support added, <br>Admin Page Sorting, <br>Update plugin from Plugins Tab, <br>Twig support, <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>).<br>Single-use password reset token.<br><br>",
 		"updates": "<br>Plugin - Massive Admin v6.x, <br>Plugin - UpdateCE, <br>View Sitemap UI,<br>Health Check, <br>Sitemap UI.<br><br>",
 		"fixed": "<br>Image and file handling, <br>Memory usage, <br>Security enhancements.<br><br>",
-		"security": "Numerous issues patched/enhanced<br>CVE-2026-27146 (CSRF), <br>CVE-2026-27147 (XSS), <br>CVE-2026-27161 (If AllowOverride is disabled), <br>CVE-2026-27202 (Arbitrary File Read)., <br>(CSRF in gsconfig.php, MA),<br>(Setup Logic Flaw),<br>(Predictable Password Reset)",
+		"security": "Numerous issues patched/enhanced<br>CVE-2026-27146 (CSRF), <br>CVE-2026-27147 (XSS), <br>CVE-2026-27161 (If AllowOverride is disabled), <br>CVE-2026-27202 (Arbitrary File Read), <br>CVE-tba (CSRF in gsconfig.php, MA),<br>CVE-tba (Setup Logic Flaw),<br>CVE-tba (Predictable Password Reset)",
 
 		"info_url": "https://getsimplecms-ce.github.io/upgrade-info.html",
 		
