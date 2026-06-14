@@ -28,8 +28,8 @@
 		"info": "Stable, but still in testing, so may change before next release..",
 		"author": "CE Team",
 		
-		"version": "3.3.23 2026.06.09 Beta",
-		"lastupdate": "2026.06.09",
+		"version": "3.3.23 2026.06.14 Beta",
+		"lastupdate": "2026.06.14",
 		
 		"new": "<br><a href='https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/wiki' target='_blank'>Dashboard</a> Plugin: Customizable admin dashboard shown after login. <br><a href='https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Config_GUI/wiki' target='_blank'>GS Config GUI</a> Plugin: Visual editor for gsconfig.php configuration settings. <br>SVG Support added. <br>Admin Page Sorting. <br>Update plugin from Plugins Tab. <br>Twig support. <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>). <br>Single-use password reset token. <br><br>",
 		"updates": "<br>Plugin - Massive Admin v6.x. <br>Plugin - UpdateCE. <br>View Sitemap UI. <br>Health Check. <br>Sitemap UI. <br><br>",
