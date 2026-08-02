@@ -28,7 +28,7 @@
 		"info": "Stable, but still in testing, so may change before next release..",
 		"author": "CE Team",
 		
-		"version": "3.3.23 2026.06.14 Beta",
+		"version": "3.3.23 2026.08.02 Beta",
 		"lastupdate": "2026.06.14",
 		
 		"new": "<br><a href='https://github.com/GetSimpleCMS-CE-plugins/plugin-Dashboard/wiki' target='_blank'>Dashboard</a> Plugin: Customizable admin dashboard shown after login. <br><a href='https://github.com/GetSimpleCMS-CE-plugins/plugin-GS_Config_GUI/wiki' target='_blank'>GS Config GUI</a> Plugin: Visual editor for gsconfig.php configuration settings. <br>SVG support for Uploads & Filebrowser. <br>Admin Page Sorting. <br>Update plugins directly from Plugins Tab. <br>Added Twig support to theme editor. <br>New theme functions (<a href='https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/wiki/Template-Tags#new-theme-functions-v34' target='_blank'>wiki</a>). <br>Single-use password reset token. <br>Added SMTP option for outgoing emails. <br><br>",
